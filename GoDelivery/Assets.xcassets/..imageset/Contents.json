@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "A vector image of a drone carrying a package at an angle, with thin lines and a slightly careless coloring style, on a white background or no background, with the main colors being green, gray-blue, black, and the package beige.-2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

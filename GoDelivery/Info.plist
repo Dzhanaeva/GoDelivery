@@ -2,8 +2,29 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Приложению требуется доступ к вашему местоположению</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>app-1-124962533475-ios-173b2f7bc2dc910e694856</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Mona-Sans-Regular.ttf</string>
+		<string>Mona-Sans-Bold.ttf</string>
+		<string>Mona-Sans-Medium.ttf</string>
+		<string>Mona-Sans-RegularWide.ttf</string>
+		<string>Mona-Sans-SemiBold.ttf</string>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
+		<key>UIApplicationSupportsTabbedSceneCollection</key>
+		<false/>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
 		<key>UISceneConfigurations</key>
@@ -15,8 +36,6 @@
 					<string>Default Configuration</string>
 					<key>UISceneDelegateClassName</key>
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
-					<key>UISceneStoryboardFile</key>
-					<string>Main</string>
 				</dict>
 			</array>
 		</dict>

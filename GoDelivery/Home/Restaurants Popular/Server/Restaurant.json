@@ -1,0 +1,148 @@
+
+
+[
+    {
+        "name": "TARELKA, кафе, г. Избербаш",
+        "cuisineType": "Fast Food",
+        "imageName": "food1",
+        "rating": 4.2,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Галерея",
+        "cuisineType": "Caucasian | European",
+        "imageName": "food4",
+        "rating": 4.7,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Вкуснофф",
+        "cuisineType": "Japanese | European",
+        "imageName": "food2",
+        "rating": 4.4,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Сакля",
+        "cuisineType": "Caucasian",
+        "imageName": "food3",
+        "rating": 4.6,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Rosemarin, кафе",
+        "cuisineType": "European",
+        "imageName": "food5",
+        "rating": 4.1,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "ГурманиЯ",
+        "cuisineType": "European | Fast Food",
+        "imageName": "food6",
+        "rating": 4.5,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Лимонад",
+        "cuisineType": "Caucasian",
+        "imageName": "food7",
+        "rating": 4.1,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Safari",
+        "cuisineType": "Caucasian | Mangal",
+        "imageName": "food",
+        "rating": 4.3,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Лайм",
+        "cuisineType": "European | Japanese",
+        "imageName": "food8",
+        "rating": 4.6,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "#РАХАТ",
+        "cuisineType": "Fast Food | PlayStation",
+        "imageName": "food9",
+        "rating": 4.8,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Фрегат",
+        "cuisineType": "Bar | Europian",
+        "imageName": "food10",
+        "rating": 4.4,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Кафе сказка",
+        "cuisineType": "Caucasian | Mangal",
+        "imageName": "food11",
+        "rating": 4.9,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Хинкальная",
+        "cuisineType": "Caucasian",
+        "imageName": "food12",
+        "rating": 4.2,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Jasmine, кафе",
+        "cuisineType": "Pizza | Europian",
+        "imageName": "food13",
+        "rating": 4.5,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Paprika, кафе, г. Избербаш",
+        "cuisineType": "Europian",
+        "imageName": "food14",
+        "rating": 4.9,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+    
+    {
+        "name": "Tokio",
+        "cuisineType": "Japan",
+        "imageName": "food2",
+        "rating": 4.9,
+        "deliveryTime": 0,
+        "distance": 0
+    },
+
+]

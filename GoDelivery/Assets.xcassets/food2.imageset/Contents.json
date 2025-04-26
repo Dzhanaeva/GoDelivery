@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "california-rolls-with-sauce-sesame-seeds.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "california-rolls-with-sauce-sesame-seeds 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "california-rolls-with-sauce-sesame-seeds 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

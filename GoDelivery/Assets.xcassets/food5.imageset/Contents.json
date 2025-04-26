@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "bakery-with-glass-red-wine.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "bakery-with-glass-red-wine 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "bakery-with-glass-red-wine 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
